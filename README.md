@@ -54,7 +54,7 @@ Open **PowerShell** and run these commands step-by-step 👇
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/KarunyaBhat12/PancreaticCancerDetection.git
+git clone https://github.com/4MT21IS025/Pancreatic-Cancer-Detection.git
 cd PancreaticCancerDetection
 
 # 2️⃣ Create a virtual environment
