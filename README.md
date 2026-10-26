@@ -21,7 +21,7 @@ This project integrates **data preprocessing, model prediction, and result visua
 
 ```
 
-PancreaticProject/
+Pancreatic-Cancer-Detection/
 │
 ├── env/                   # Virtual environment (ignored in .gitignore)
 ├── project/
@@ -55,13 +55,14 @@ Open **PowerShell** and run these commands step-by-step 👇
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/4MT21IS025/Pancreatic-Cancer-Detection.git
-cd PancreaticCancerDetection
+
+cd Pancreatic-Cancer-Detection
 
 # 2️⃣ Create a virtual environment
 py -m venv env
 
 # 3️⃣ Activate the environment
-.\env\Scripts\Activate
+.\venv\Scripts\Activate.ps1
 
 # 4️⃣ Navigate to project folder
 cd project
